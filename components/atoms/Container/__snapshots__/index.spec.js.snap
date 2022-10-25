@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Container should render the component 1`] = `
+<div>
+  <div
+    class="MuiContainer-root MuiContainer-maxWidthLg css-1oqqzyl-MuiContainer-root"
+  />
+</div>
+`;
+
+exports[`Container should render the component with max width 1`] = `
+<div>
+  <div
+    class="MuiContainer-root MuiContainer-maxWidthMd css-xdmu94-MuiContainer-root"
+  />
+</div>
+`;

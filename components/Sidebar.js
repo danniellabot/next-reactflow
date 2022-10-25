@@ -22,6 +22,7 @@ export default function Sidebar() {
       <CssBaseline />
       <Drawer
         variant="permanent"
+        anchor='right'
         sx={{
           width: drawerWidth,
           flexShrink: 0,
